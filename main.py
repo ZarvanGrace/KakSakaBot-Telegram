@@ -7,8 +7,8 @@ from typing import Final
 import random
 
 # here goes your bot token:
-TOKEN: Final = "6986679168:AAFHM2Bx6G8l-kXtLXF3ctaO4RPnXquAy0c"
-BOT_USERNAME: Final = "@KakSakaBot"  # this is where your bot username goes
+TOKEN: Final = "<BOT-TOKEN>"
+BOT_USERNAME: Final = "<BOT-USERNAME>"  # this is where your bot username goes
 
 
 # this is when you start the bot, you can program anything you want into it
